@@ -57,3 +57,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WinoAndikaB/WinoAndikaB/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/WinoAndikaB/WinoAndikaB/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/WinoAndikaB/WinoAndikaB/output/snake.svg" alt="Snake animation" />
+
+###
